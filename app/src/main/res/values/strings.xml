@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Countrypedia</string>
+    <string name="language">Language - </string>
+    <string name="currency">Currency - </string>
+    <string name="regionalBloc">Regional Bloc - </string>
+    <string name="timezones">Timezones -</string>
+    <string name="search_here">Search here</string>
+    <string name="loading">loading...</string>
+    <string name="try_again">Try again</string>
+    <string name="unable_to_load_the_countries">Unable to load the Countries!</string>
+    <string name="voice_language">english</string>
+    <string name="details">Details</string>
+    <string name="search_your_country">Search your country</string>
+</resources>
